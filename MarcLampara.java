@@ -15,7 +15,7 @@ public class Olive_Morla_Marc_EjercicioPRO3_7 {
 	boolean BombillaFundida=false;
 	boolean InterruptorEstropeado;
 		
-	//Mostramos en pantalla una pregunta y la respuesta se guardara en la variable "Enchufada"
+	//Mostramos en pantalla una  y la respuesta se guardara en la variable "Enchufada"
 	System.out.println("Esta enchufada la lampara? contesta con true o false");
 	Enchufada= sc.nextBoolean();
 	
